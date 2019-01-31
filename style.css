@@ -1,0 +1,22 @@
+
+.Admintitle{
+
+    background-color: lightblue;
+    color: white;
+
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 140px;
+    line-height: 140px;
+}
+.dashboard{
+
+    background-color: cornsilk;
+    color: azure;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 140px;
+    font-size: 25px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
